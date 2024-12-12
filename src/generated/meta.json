@@ -1,5 +1,5 @@
 {
-  "gzip": false,
+  "gzip": true,
   "generator": "Unity 2022.3.29f1, Needle Engine Integration @3.51.2",
   "developmentBuild": true,
   "allowHotReload": true,
@@ -13,10 +13,10 @@
     "enabled": true,
     "components": true,
     "materials": true,
-    "sceneCamera": false
+    "sceneCamera": true
   },
   "sceneName": "Vite",
   "meta": null,
-  "absolutePath": "https://Nuraga.netlify.app",
+  "absolutePath": "https://localhost:3000",
   "deployOnly": false
 }
