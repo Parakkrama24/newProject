@@ -13,10 +13,10 @@
     "enabled": true,
     "components": true,
     "materials": true,
-    "sceneCamera": true
+    "sceneCamera": false
   },
-  "sceneName": "Vite",
+  "sceneName": "Scene",
   "meta": null,
-  "absolutePath": null,
+  "absolutePath": "https://localhost:3000",
   "deployOnly": false
 }
