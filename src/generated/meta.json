@@ -9,13 +9,8 @@
     "key": ""
   },
   "useRapier": true,
-  "needleEditor": {
-    "enabled": true,
-    "components": true,
-    "materials": true,
-    "sceneCamera": false
-  },
-  "sceneName": "Scene",
+  "needleEditor": null,
+  "sceneName": "Vite",
   "meta": null,
   "absolutePath": "https://localhost:3000",
   "deployOnly": false
